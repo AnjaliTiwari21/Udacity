@@ -1,3 +1,3 @@
 # Udacity
 
-This project will consists of short codes and exercises from the Udacity Nano degree AWS Machine learning Course
+This project consists of python codes and exercises from the Udacity Nano degree AWS Machine learning Course
